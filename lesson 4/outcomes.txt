@@ -1,0 +1,3 @@
+learned how to set media break points, work with various flexbox properties (flex-direction, flex-wrap, display)
+learned how to reorder content with CSS and that all items have an inherit order of 0
+learned how to set a final breakpoint so that content stops expanding after a set point
