@@ -430,3 +430,14 @@ footer a {
   }
 }
 
+/*adjust scores table in between major breakpoints*/
+@media screen and (min-width: 400px) and (max-width: 630px){
+  .scores__table{
+    font-size: 1.5em;
+  }
+  .scores__table td{
+    padding: .5em;
+    padding-left: .25em;
+    text-align: left;
+  }
+}
